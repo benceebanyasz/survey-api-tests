@@ -1,0 +1,15 @@
+{
+  "name": "dynata-task",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Bence Banyasz",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.6.8"
+  }
+}
